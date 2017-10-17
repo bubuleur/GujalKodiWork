@@ -195,15 +195,15 @@ msgstr "Pays"
 
 msgctxt "#30102"
 msgid "Force View"
-msgstr "Forcer vue"
+msgstr "Forcer l'affichage"
 
 msgctxt "#30103"
 msgid "ViewID"
-msgstr "Vue ID"
+msgstr "Affichage ID"
 
 msgctxt "#30104"
-msgid "Filtre parental"
-msgstr ""
+msgid "Age Gate"
+msgstr "Grille d'âge"
 
 msgctxt "#30105"
 msgid "Maximum resolution"
